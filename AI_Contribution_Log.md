@@ -59,3 +59,18 @@ I tested the program with different inputs and checked the output. The final cod
 GitHub Copilot helped me with code suggestions, program structure, comments, and implementation ideas. I reviewed the suggestions, selected the useful parts, modified them according to my requirements, and tested the final program myself.
 
 The final project is therefore an AI-assisted implementation, with my own decisions, modifications, testing, and project setup contributing to the completed work.
+## AI Contribution Log
+
+### Tools Used
+* **GitHub Copilot**
+
+### AI-Assisted Tasks
+* Assisted in structuring the Python benchmarking template (`search_cases_profiling.py`).
+* Provided guidance on syntax for profiling tools (`cProfile`, `py-spy`).
+* Helped format Markdown comparison tables for empirical evaluation reporting.
+
+### Independent Student Work
+* Configured the local Python environment and executed profiling runs.
+* Analyzed empirical runtime and comparison metrics across Best, Average, and Worst cases.
+* Captured all execution and profiling screenshots.
+* Wrote the analytical performance justification and report documentation.
