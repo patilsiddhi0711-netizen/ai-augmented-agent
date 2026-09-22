@@ -37,4 +37,3 @@ CONTRIBUTION_LOG.md.
 Open the project in VS Code and run:
 
 ```bash
-py agent.py exit
